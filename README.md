@@ -1,1 +1,2 @@
-# Simple-Email-Form
+<h1>Simple Email Form</h1>
+<p>A very bare bones, simple email contact form. Just put the form in your page, change the action email to the mail you would like to receive the information to and enjoy!</p>
